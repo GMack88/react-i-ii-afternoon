@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(41, 37, 37);
 }
 
 code {
@@ -13,7 +14,18 @@ code {
 }
 
 header {
-  background-color: skyblue;
-  height: 50px;
+  background-color: rgb(9, 136, 221);
+  padding: 20px;
   width: 100%;
+  text-align: left;
+}
+button {
+  background-color: Transparent;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }

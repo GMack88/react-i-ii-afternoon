@@ -1,0 +1,15 @@
+.card {
+  background-color: white;
+}
+
+.counter {
+  font-size: 30px;
+  font-weight: bold;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-items: flex-start;
+  align-content: stretch;
+}
